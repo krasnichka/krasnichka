@@ -13,21 +13,14 @@
 - 🗄 Базы данных (SQL-запросы, MySQL, PostgreSQL)
 - 🌐 Клиент-серверная архитектура, основы сетей
 
-## 🌟 GitHub Статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=radical" width="48%" alt="GitHub Streak">
-</p>
-
 ## 📂 Репозитории с проектами
 🔹 [Автотесты на Selenium](https://github.com/ТВОЙ_НИК/selenium-tests)  
 🔹 [SQL-запросы для тестирования](https://github.com/ТВОЙ_НИК/sql-tests)  
 🔹 [Чек-листы и тест-кейсы](https://github.com/ТВОЙ_НИК/test-cases)  
 
 ## 📬 Контакты
-✉️ **Email**: ТВОЙ_EMAIL  
-💼 **LinkedIn**: [linkedin.com/in/ТВОЙ_ЛИНК](https://linkedin.com/in/ТВОЙ_ЛИНК)  
-🐦 **Telegram**: [@ТВОЙ_НИК](https://t.me/ТВОЙ_НИК)  
+✉️ **Email**: kirillkrasnov115404@gmail.com 
+🐦 **Telegram**: [krasnichka](https://t.me/krasnichka)  
 
 ---
 ⭐️ *Спасибо, что заглянули! Подписывайтесь, смотрите мои проекты!* 🚀
