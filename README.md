@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут [ТВОЁ ИМЯ]  
 
-<!--
-**krasnichka/krasnichka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer;Manual+%26+Automation+Tester;API+Testing+%7C+SQL+%7C+CI%2FCD)  
 
-Here are some ideas to get you started:
+## 🛠 О себе
+👨‍💻 Я начинающий **QA-инженер** (тестировщик) и интересуюсь автоматизированным и ручным тестированием. Постепенно изучаю **Selenium, API-тестирование, CI/CD** и другие инструменты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Стек технологий
+
+🔍 **Основные навыки:**
+- 📌 Ручное тестирование (создание тест-кейсов, баг-репортов, тест-планов)
+- 🔄 Автоматизация тестов (Python + Selenium)
+- 📊 API-тестирование (Postman, REST, JSON, XML)
+- 🗄 Базы данных (SQL-запросы, MySQL, PostgreSQL)
+- 🔥 Нагрузочное тестирование (JMeter)
+- 🛠 CI/CD, Git, GitHub Actions
+
+## 🌟 GitHub Статистика
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=radical" width="48%" alt="GitHub Streak">
+</p>
+
+## 📂 Репозитории с проектами
+🔹 [Автотесты на Selenium](https://github.com/ТВОЙ_НИК/selenium-tests)  
+🔹 [SQL-запросы для тестирования](https://github.com/ТВОЙ_НИК/sql-tests)  
+🔹 [Чек-листы и тест-кейсы](https://github.com/ТВОЙ_НИК/test-cases)  
+
+## 📬 Контакты
+✉️ **Email**: ТВОЙ_EMAIL  
+💼 **LinkedIn**: [linkedin.com/in/ТВОЙ_ЛИНК](https://linkedin.com/in/ТВОЙ_ЛИНК)  
+🐦 **Telegram**: [@ТВОЙ_НИК](https://t.me/ТВОЙ_НИК)  
+
+---
+⭐️ *Спасибо, что заглянули! Подписывайтесь, смотрите мои проекты!* 🚀
+
+
