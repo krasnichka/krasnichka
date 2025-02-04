@@ -14,9 +14,9 @@
 - 🌐 Клиент-серверная архитектура, основы сетей
 
 ## 📂 Репозитории с проектами
-🔹 [Автотесты на Selenium](https://github.com/ТВОЙ_НИК/selenium-tests)  
-🔹 [Баг-репорты и тест-планы](https://github.com/ТВОЙ_НИК/bug-reports)   
-🔹 [Чек-листы и тест-кейсы](https://github.com/ТВОЙ_НИК/test-cases)  
+🔹 [Автотесты на Selenium](https://github.com/krasnichka/selenium-tests)  
+🔹 [Баг-репорты и тест-планы](https://github.com/krasnichka/bug-reports)   
+🔹 [Чек-листы и тест-кейсы](https://github.com/krasnichka/test-cases)  
 
 ## 📬 Контакты
 ✉️ **Email**: kirillkrasnov115404@gmail.com 
