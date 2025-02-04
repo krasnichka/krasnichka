@@ -1,4 +1,4 @@
-# Привет! 👋 Меня зовут Кирилл)  
+# Привет! 👋 Меня зовут Кирилл
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer;Manual+%26+Automation+Tester;API+Testing+%7C+SQL+%7C+CI%2FCD)  
 
