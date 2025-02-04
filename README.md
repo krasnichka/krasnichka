@@ -28,8 +28,5 @@
 
 
 
-P.S. Улыбнись :)
-
 ![image](https://github.com/user-attachments/assets/695dfabd-8ee0-4746-805e-aafa4507caa5)
 
-![image](https://github.com/user-attachments/assets/a12a6d3d-6e68-4b1c-acee-147200874c8d)
